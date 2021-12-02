@@ -2,8 +2,8 @@
 - 👀 I’m interested in ... Coding
 - 🌱 I’m currently learning ... Java, Python
 - 💞️ I’m looking to colleborate on ...
-- 📫 How to reach me ... Email-rohitdhomne619@gmail
-Com
+- 📫 How to reach me ... 
+Email-rohitdhomne619@gmail.com
 LinkedIn Profile-https://www.linkedin.com/in/rohit-dhomne-504b20217
 
 <!---
