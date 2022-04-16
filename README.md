@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RohitDhomne
-- 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... Java, Python
+- 👀 I’m interested in ... Data science
+- 🌱 I’m currently learning ... Data science
 - 💞️ I’m looking to colleborate on ...
 - 📫 How to reach me ... 
 Email- rohitdhomne619@gmail.com
